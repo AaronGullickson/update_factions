@@ -3,6 +3,8 @@
 # easier to match to SUCS data in the future. However, we have to handle a few
 # cases in the current data where names do not match.
 
+## NOTE: This was a one-shot script that was used to add the sucsId to the 
+#        the code base. That is now complete.
 
 # Load libraries and other setup ------------------------------------------
 
